@@ -1,0 +1,46 @@
+{
+  "id": "phones",
+  "headline": "Mobiltelefoner",
+  "options": [
+    {
+      "id": "Alcatel",
+      "displayName": "Alcatel",
+      "displayImageUrl": "https://www.telia.se/dam/jcr:7ee8ec2a-0730-49e8-b865-18ad8508f8c5/alcatel_front_270x540.png"
+    },
+    {
+      "id": "Apple",
+      "displayName": "Apple",
+      "displayImageUrl": "https://www.telia.se/dam/jcr:bd0cbb1c-fecc-4949-8989-2e12900fd1f2/iPhone_11_Pro_Max_Green_Front_270x540.png"
+    },
+    {
+      "id": "Doro",
+      "displayName": "Doro",
+      "displayImageUrl": "https://www.telia.se/dam/jcr:38f7ea17-3507-4064-9bb6-72957c339333/Doro_8080_white_front_270x540.png"
+    },
+    {
+      "id": "Huawei",
+      "displayName": "Huawei",
+      "displayImageUrl": "https://www.telia.se/dam/jcr:b300df84-04be-40af-a1aa-5f1c80019f1d/Huawei-P30-Vogue_Blue_Front-251x540.png"
+    },
+    {
+      "id": "Nokia",
+      "displayName": "Nokia",
+      "displayImageUrl": "https://www.telia.se/dam/jcr:c98a56bd-6db4-4e33-9850-90bfeb6a6798/Nokia-7.2-Front-Black-270x540.png"
+    },
+    {
+      "id": "Samsung",
+      "displayName": "Samsung",
+      "displayImageUrl": "https://www.telia.se/dam/jcr:53fa8cfb-8a4f-44c6-b73e-8265b0f4c67d/GalaxyFold_Back115_Silver-270x540.png"
+    },
+    {
+      "id": "Sony",
+      "displayName": "Sony",
+      "displayImageUrl": "https://www.telia.se/dam/jcr:c637d74e-32cd-4152-bbd2-c97461140229/xperia_1_front_black_270x540%20.png"
+    },
+    {
+      "id": "Xiaomi",
+      "displayName": "Xiaomi",
+      "displayImageUrl": "https://www.telia.se/dam/jcr:c0868982-24ef-4084-803b-1aa708ec3972/xiaomi_black_front_270x540.png"
+    }
+  ]
+}
