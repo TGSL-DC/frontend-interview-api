@@ -24,7 +24,7 @@
         "hex": "#44464a"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:e77c133b-a058-43c0-a21d-e0f318c49c2d/iPhone7_Black_Front_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/iPhone7_Black_Front_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/apple-iphone-7"
   },
   {
@@ -57,7 +57,7 @@
         "hex": "#f8e9df"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:2856cd6b-59e2-4c75-bfbf-edd80f15b55d/iPhone8_spacegrey_front_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/iPhone8_spacegrey_front_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/apple-iphone-8"
   },
   {
@@ -77,7 +77,7 @@
         "hex": "#444446"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:267b2727-893e-4297-b578-5bdf90b727a1/iphone-8plus-front-space-grey-270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/iphone-8plus-front-space-grey-270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/apple-iphone-8-plus"
   },
   {
@@ -109,7 +109,7 @@
         "hex": "#000000"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:96f46b16-b097-4778-8e53-37e7ac7efede/iphone-xr-white-front-270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/iphone-xr-white-front-270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/apple-iphone-xr"
   },
   {
@@ -137,7 +137,7 @@
         "hex": "#444446"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:c3094297-b416-47ff-b831-096dff482b87/iphone-xs-gold-front-270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/iphone-xs-gold-front-270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/apple-iphone-xs"
   },
   {
@@ -165,7 +165,7 @@
         "hex": "#444446"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:78c9efeb-64c9-4c8b-a64e-658e14aca8cf/iPhoneXsMax_Gold_front-270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/iPhoneXsMax_Gold_front-270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/apple-iphone-xs-max"
   },
   {
@@ -201,7 +201,7 @@
         "hex": "#ffffff"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:eecc7b54-e1aa-4981-9073-ae88ba6c2db4/11rodfram.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/11rodfram.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/apple-iphone-11"
   },
   {
@@ -241,7 +241,7 @@
         "hex": "#FFDAB9"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:99ca6c32-9e0f-46fe-881d-16b800faeed5/iphone_11_pro_midnightgreen_front_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/iphone_11_pro_midnightgreen_front_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/apple-iphone-11-pro"
   },
   {
@@ -281,7 +281,7 @@
         "hex": "#FFDAB9"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:bd0cbb1c-fecc-4949-8989-2e12900fd1f2/iPhone_11_Pro_Max_Green_Front_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/iPhone_11_Pro_Max_Green_Front_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/apple-iphone-11-pro-max"
   },
   {
@@ -317,7 +317,7 @@
         "hex": "#b72833"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:42884f5d-959e-4a7e-b197-ef00356517a5/se-front-black-min.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/se-front-black-min.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/apple-iphone-se"
   },
   {
@@ -345,7 +345,7 @@
         "hex": "#b22222"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:0d348555-439a-4b58-a2d2-008cd1036f7a/doro7031_black__front_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/doro7031_black__front_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/doro-7031"
   },
   {
@@ -369,7 +369,7 @@
         "hex": "#696969"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:50eba557-aa9a-431a-b2b4-0258bd661f9e/doro7011_front_graphite_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/doro7011_front_graphite_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/doro-7011"
   },
   {
@@ -399,7 +399,7 @@
         "hex": "#000000"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:38f7ea17-3507-4064-9bb6-72957c339333/Doro_8080_white_front_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/Doro_8080_white_front_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/doro-8080"
   },
   {
@@ -425,7 +425,7 @@
         "hex": "#000000"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:d7d36b3d-ad3f-48b1-b66a-d4eef55c20d2/Doro_8050_front-270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/Doro_8050_front-270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/doro-8050"
   },
   {
@@ -451,7 +451,7 @@
         "hex": "#000000"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:1d8b789a-da22-45e6-95d9-e3aec082332f/p30_black_front_251x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/p30_black_front_251x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/huawei-p30"
   },
   {
@@ -481,7 +481,7 @@
         "hex": "#4169e1"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:69f94062-e440-433f-8991-f18d56344aa2/Huawei-P30-Lite-Front-Black-270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/Huawei-P30-Lite-Front-Black-270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/huawei-p30-lite"
   },
   {
@@ -516,7 +516,7 @@
         "hex": "#000000"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:b300df84-04be-40af-a1aa-5f1c80019f1d/Huawei-P30-Vogue_Blue_Front-251x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/Huawei-P30-Vogue_Blue_Front-251x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/huawei-p30-pro"
   },
   {
@@ -546,7 +546,7 @@
         "hex": "#4169e1"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:b38ef1d5-efaf-42ff-87eb-6b75a1b4709d/huaweiY6s_front_blue_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/huaweiY6s_front_blue_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/huawei-y6s"
   },
   {
@@ -577,7 +577,7 @@
         "hex": "#beb8b8"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:dec76748-1f50-4915-b9ff-b7d236eb3f3d/huawei_p40_pro_front_black_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/huawei_p40_pro_front_black_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/huawei-p40-pro"
   },
   {
@@ -607,7 +607,7 @@
         "hex": "#ffc0cb"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:2ca7b8f6-b4f3-4034-bfa2-d71fa09dc4c3/Nokia%204.2%20Svart%20Front%20540x.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/Nokia%204.2%20Svart%20Front%20540x.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/nokia-4-2"
   },
   {
@@ -633,7 +633,7 @@
         "hex": "#000000"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:eaeb6ed1-1541-40dd-8945-d0a42a9f1bd9/galaxy_a40_front_black_242x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/galaxy_a40_front_black_242x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/samsung-galaxy-a40"
   },
   {
@@ -659,7 +659,7 @@
         "hex": "#071d3a"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:3bef63e1-00ae-49ab-afc2-63a812f9e0f7/Xcover-4S-Front_Black-270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/Xcover-4S-Front_Black-270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/samsung-galaxy-xcover-4s"
   },
   {
@@ -685,7 +685,7 @@
         "hex": "#071d3a"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:d2e72c0b-8f78-4399-b557-f34cac7da749/galaxy_xcover_pro_front_black_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/galaxy_xcover_pro_front_black_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/samsung-galaxy-xcover-pro"
   },
   {
@@ -715,7 +715,7 @@
         "hex": "#000000"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:1e43df8f-b28e-41ad-8d7c-e0c673282a60/galaxys10_front_white-252x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/galaxys10_front_white-252x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/samsung-galaxy-s10"
   },
   {
@@ -741,7 +741,7 @@
         "hex": "#ffffff"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:7bc1a452-3d21-4ea1-b122-4917c36c2a91/galaxys10e_front_black270x540%20(1).png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/galaxys10e_front_black270x540%20(1).png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/samsung-galaxy-s10e"
   },
   {
@@ -776,7 +776,7 @@
         "hex": "#87cefa"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:52c8d280-ef03-4661-a6bd-b1109b10e4ea/GalaxyS20_5G_front_gray-ny-270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/GalaxyS20_5G_front_gray-ny-270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/samsung-galaxy-s20"
   },
   {
@@ -807,7 +807,7 @@
         "hex": "#808080"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:f5d30ee9-ff53-474f-9814-5ef03a1fdc99/GalaxyS20+_5G_front_black_gray-ny-270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/GalaxyS20+_5G_front_black_gray-ny-270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/samsung-galaxy-s20-plus"
   },
   {
@@ -838,7 +838,7 @@
         "hex": "#000000"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:bbb66dde-5c8d-466e-a42d-fb5b1658f44d/GalaxyS20Ultra_5G_front_black_gray-ny-270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/GalaxyS20Ultra_5G_front_black_gray-ny-270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/samsung-galaxy-s20-ultra"
   },
   {
@@ -869,7 +869,7 @@
         "hex": "#da70d6"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:4ba95f85-fcce-4f86-bb10-6aacf7f1da41/sm_f700f_galaxy-z-flip_front-table-top_black-270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/sm_f700f_galaxy-z-flip_front-table-top_black-270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/samsung-galaxy-z-flip"
   },
   {
@@ -895,7 +895,7 @@
         "hex": "#000000"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:421e8986-8585-4a2e-a17a-6ea54d82b2f0/galaxy_a51_svart_front_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/galaxy_a51_svart_front_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/samsung-galaxy-a51"
   },
   {
@@ -925,7 +925,7 @@
         "hex": "#C0C0C0"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:c637d74e-32cd-4152-bbd2-c97461140229/xperia_1_front_black_270x540%20.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/xperia_1_front_black_270x540%20.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/sony-xperia-1"
   },
   {
@@ -955,7 +955,7 @@
         "hex": "#758a9f"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:3c516f28-39aa-426e-af8b-b4a5d0db7db6/xperia_10_front_black_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/xperia_10_front_black_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/sony-xperia-10"
   },
   {
@@ -981,7 +981,7 @@
         "hex": "#000000"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:89f32b3e-66a3-4019-adac-d12679df66ac/xperia_l3_black_front_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/xperia_l3_black_front_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/sony-xperia-l3"
   },
   {
@@ -1015,7 +1015,7 @@
         "hex": "#b22222"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:09d5db70-a1fe-4086-a581-a67154f1b6ff/xperia5_front_black_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/xperia5_front_black_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/sony-xperia-5-crm-black-week"
   },
   {
@@ -1049,7 +1049,7 @@
         "hex": "#0000cd"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:a13e0af2-ed50-4369-8565-c8d0bc103c21/xperia5_front_blue_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/xperia5_front_blue_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/sony-xperia-5"
   },
   {
@@ -1079,7 +1079,7 @@
         "hex": "#000000"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:47f60489-6cc9-4745-b4f5-a486b33d7335/xperia_l4_front_blue_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/xperia_l4_front_blue_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/sony-xperia-l4"
   },
   {
@@ -1109,7 +1109,7 @@
         "hex": "#ffffff"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:eac3449f-39c6-4398-af08-3b341bed425a/xperia_10_II_black_front_urbanears_pampas_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/xperia_10_II_black_front_urbanears_pampas_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/sony-xperia-10-ll"
   },
   {
@@ -1140,7 +1140,7 @@
         "hex": "#9400d3"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:c25e9359-32c5-4eff-bafb-c96882912546/xperia_1_II_black_front_WH-1000XM3_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/xperia_1_II_black_front_WH-1000XM3_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/sony-xperia-1-ll"
   },
   {
@@ -1166,7 +1166,7 @@
         "hex": "#0000cd"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:7ee8ec2a-0730-49e8-b865-18ad8508f8c5/alcatel_front_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/alcatel_front_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/alcatel-3-2019"
   },
   {
@@ -1200,7 +1200,7 @@
         "hex": "#fffafa"
       }
     ],
-    "imgUrl": "https://www.telia.se/dam/jcr:c0868982-24ef-4084-803b-1aa708ec3972/xiaomi_black_front_270x540.png",
+    "imgUrl": "https://raw.githubusercontent.com/TeliaSweden/frontend-interview-api/master/images/phones/xiaomi_black_front_270x540.png",
     "link": "https://www.telia.se/privat/telefoni/telefoner/produkt/xiaomi-mi-note-10"
   }
 ]
